@@ -1,0 +1,4 @@
+requests==2.31.0
+PyQt5==5.15.9
+python-dateutil==2.8.2
+pytz==2023.3.post1
